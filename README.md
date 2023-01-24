@@ -14,5 +14,5 @@
 </a>
 
 ### Languages and Tools that I have been learning:
-<img src="https://img2.freepng.es/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg">
+<img src="https://3537123503-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LKPU2wzMxBOvFQpzlkK%2F-LP1ozRGWuZ56zrrwTde%2F-LP1s6iAXrYkbdW9LEyY%2Fimage.png?alt=media&token=05cead33-7d37-43ba-8621-368ce22ce10a">
 
