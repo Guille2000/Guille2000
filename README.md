@@ -10,7 +10,7 @@
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/guillermo-acosta-6659b91ab/">
-    <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" width="80px" alt="">
+    <img src="https://w7.pngwing.com/pngs/808/657/png-transparent-app-linkedin-logo-media-popular-social-web-2018-social-media-app-logos-icon.png" width="80px" alt="">
 </a>
 
 ### Languages and Tools that I have been learning:
