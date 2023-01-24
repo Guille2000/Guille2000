@@ -8,8 +8,11 @@
 - 📫 [Here's my resume](https://drive.google.com/file/d/1zteH_IcBotN5aVDEKCg6pyC5F_CCXTzj/view?usp=drivesdk)
 
 
-### Connect with me 👋
+### Connect with me
 <a href="https://www.linkedin.com/in/guillermo-acosta-6659b91ab/">
     <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" alt="">
 </a>
+
+### Languages and Tools that I have been learning:
+<img src="https://img2.freepng.es/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg">
 
