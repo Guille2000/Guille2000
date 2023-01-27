@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-- 🌱 My name is Guillermo Acosta, I'm a Software engineering student at Holberton School.
+- 🌱 My name is Guillermo Acosta, I'm a Software engineering student.
 - 🔭 I've done a lot of courses where I learned Javascript, React and Angular. 
 - 👯 On november 2022 I completed the Angular Skill Up at Alkemy where with a team I developed a bank, using the principles of SCRUM.
-- 🤔At Holberton, i'm studying low-level programming, high-level programming, system engineering and devops, and web stack programming (Front-end & Back-end) using a methodology based on peer-learning and projects.
+- 🤔I have experiencie working as a freelancer doing landingpages, and i worked in Toto Calzados from May to November as a Junior Developer, using Angular and SQL SERVER.
 - 💬 I'm a very friendly person, always willing to help. 
 - 📫 [Here's my resume](https://drive.google.com/file/d/1zteH_IcBotN5aVDEKCg6pyC5F_CCXTzj/view?usp=drivesdk)
 
@@ -15,7 +15,6 @@
 
 ### Languages and Tools that I have been learning:
 <div align="center">
-<img src="https://3537123503-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LKPU2wzMxBOvFQpzlkK%2F-LP1ozRGWuZ56zrrwTde%2F-LP1s6iAXrYkbdW9LEyY%2Fimage.png?alt=media&token=05cead33-7d37-43ba-8621-368ce22ce10a" width="50px">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="50px">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" width="50px">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" width="50px">
