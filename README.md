@@ -6,6 +6,7 @@
 - 🤔I have experiencie working as a freelancer doing landing pages, and i worked in Toto Calzados from May to November as a Junior Developer, using Angular and SQL SERVER.
 - 💬 I'm a very friendly person, always willing to help. 
 - 📫 [Here's my resume](https://drive.google.com/file/d/1zteH_IcBotN5aVDEKCg6pyC5F_CCXTzj/view?usp=drivesdk)
+- This is my portfolio https://dainty-cactus-597b9f.netlify.app/
 
 
 ### Connect with me
