@@ -3,7 +3,7 @@
 - 🌱 My name is Guillermo Acosta, I'm a Software engineering student.
 - 🔭 I've done a lot of courses where I learned Javascript, React and Angular. 
 - 👯 On november 2022 I completed the Angular Skill Up at Alkemy where with a team I developed a bank, using the principles of SCRUM.
-- 🤔I have experiencie working as a freelancer doing landing pages, and i worked in Toto Calzados from May to November as a Junior Developer, using Angular and SQL SERVER.
+- 🤔I have experiencie working as a freelancer doing landing pages, and i worked in Toto Calzados from May to August as a Junior Developer, using Angular and SQL SERVER.
 - 💬 I'm a very friendly person, always willing to help. 
 - 📫 [Here's my resume](https://drive.google.com/file/d/1zteH_IcBotN5aVDEKCg6pyC5F_CCXTzj/view?usp=drivesdk)
 - This is my portfolio https://dulcet-alpaca-d02e22.netlify.app/
