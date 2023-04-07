@@ -6,7 +6,7 @@
 - 🤔I have experiencie working as a freelancer doing landing pages, and i worked in Toto Calzados as a Junior Developer, using Angular and SQL SERVER.
 -I'm studying the career programmer analyst at ORT University.
 - 💬 I'm a very friendly person, always willing to help. 
-- Here's my portfolio: https://symphonious-medovik-764e2f.netlify.app/
+- Here's my portfolio: https://coruscating-rabanadas-7760ec.netlify.app/
 
 
 ### Connect with me
